@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 }
 // TODO: rename
 rootProject.name = "TODO"
+include(":todo")
